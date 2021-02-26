@@ -52,7 +52,10 @@
 ![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
-## **Reach out to me:** ️
+
+---
+
+## 👋 **Reach out to me:** ️
 
 [<img src="https://img.shields.io/badge/LinkedIn-nicole--latifi-informational?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0077b5&&color=0077b5"/>][linkedin]
 [<img src="https://img.shields.io/badge/nicole.latifi@gmail.com-informational?style=for-the-badge&labelColor=black&logoColor=d14836&logo=microsoft&color=d14836"/>][gmail]
@@ -60,7 +63,7 @@
 [<img src="https://img.shields.io/badge/Stackoverflow-nicole--latifi-informational?style=for-the-badge&labelColor=black&logo=stackoverflow&logoColor=fe7a16&color=fe7a16"/>][stackoverflow]
 
 
-Follow : You can follow me here on [![GitHub followers](https://img.shields.io/github/followers/NicoleLatifi?label=Follow&style=social)](https://github.com/NicoleLatifi/?tab=follow)
+### ❤️ Follow : You can follow me here on [![GitHub followers](https://img.shields.io/github/followers/NicoleLatifi?label=Follow&style=social)](https://github.com/NicoleLatifi/?tab=follow)
 
 <!-- ## **Badges:**
 
