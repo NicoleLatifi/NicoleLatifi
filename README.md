@@ -1,4 +1,5 @@
 # <p align="center">️ **Welcome, I am Nicole Latifi**</p>
+### <p align="center">️aka [NicoleLatifiNutrien](https://github.com/NicoleLatifiNutrien)</p>
 
 ---
 
